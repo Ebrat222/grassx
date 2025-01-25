@@ -219,7 +219,7 @@ async def connect_to_wss(user_id, mode):
 
 async def main():
     print(f"{Fore.CYAN}{BANNER}{Style.RESET_ALL}")
-    print(f"{Fore.CYAN}IM-Hanzou | GetGrass Crooter V2{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}@EarnViewOfficial | GetGrass V2{Style.RESET_ALL}")
     
     print(f"{Fore.GREEN}Select Mode:{Style.RESET_ALL}")
     print("1. Extension Mode")
